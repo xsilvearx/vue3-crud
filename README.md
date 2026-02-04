@@ -9,9 +9,12 @@ A simple task management app built with Vue 3 and Vite.
 - Persist ata using localstorage
 
 ## Screenshots
-![Add Task](screenshots/add-new-task.png)
-![Show Tasks](screenshots/show-tasks.png)
-![Edit task](screenshots/edit-task.png)
+### Add Task
+![Add Task](https://github.com/xsilvearx/vue3-crud/blob/main/screenshots/add-new-task.PNG)
+### Show Tasks
+![Show Tasks](https://github.com/xsilvearx/vue3-crud/blob/main/screenshots/show-tasks.PNG)
+### Edit Task
+![Edit task](https://github.com/xsilvearx/vue3-crud/blob/main/screenshots/edit-task.PNG)
 
 ## Tech Stack
 - Vue 3 (Cmposition API)
